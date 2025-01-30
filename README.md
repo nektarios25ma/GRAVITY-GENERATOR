@@ -25,54 +25,64 @@
 Υλικό
 Ποσότητα
 Σύνδεσμος Αγοράς
+
 Arduino Uno R3
 1
 Arduino Uno R3 €14,88
+
 Mini υποβρύχια αντλία (3-6V) ή 12V
 1
  Αντλία ή αντλία €8,60
+ 
 Ηλιακό πάνελ (5-6V)
 2
 Ηλιακό Πάνελ2X€12,90
+
 Relay Module - 1 Channel 12V                                                                                                        
-Μπαταρία Li-on
-1
 1
 relay €1,80
- Battery€5,80 
+
+Μπαταρία Li-on
+1
+ Battery€5,80
+ 
 Υποδοχή για μπαταρίες and
 1
 Battery Holder12,80 €
+
 Μοτέρ γεννήτρια DC (12V)
 1
 DC Generator
+
 Βαλβίδα νερού solenoid
 1
 Βαλβίδα Solenoid 
 https://grobotronics.com/peristaltic-liquid-pump-12v-dc.html
 https://grobotronics.com/silicone-tube-transparent-2x4mm-per-meter.html
+
 Τρανζίστορ NPN (π.χ. 2N2222)
-
-
 2
-
-
 2N2222
+
  γέφυρες
 1
 Bridge Rectifier
+
 Αντιστάσεις (1kΩ, 10kΩ)
 5
 Resistors Set
+
 Κατασκευαστική πλακέτα breadboard
 1
 Breadboard
+
 Σωλήνες σιλικόνης (5mm διάμετρος)
 1
 Silicone Tubes
+
 Δοχείο νερού (π.χ. πλαστικό κουτί)
 2
-Διάφορα τοπικά καταστήματα
+
 Καλώδια σύνδεσης
 Πολλά
 Jumper Wires
