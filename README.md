@@ -42,7 +42,7 @@
 Χρησιμοποιούμε ρουλεμάν 8x7x22mm για να κάνουμε όλα τα μέρη να περιστρέφονται ομαλά: http://www.amazon.com/gp/product/B002BBGTK6
 
 Βίντεο: 
-Η πολλοστή προσπάθεια παρήγαγε ένα λειτουργικό πρωτότυπο, video-link:  https://drive.google.com/file/d/1IFSs3d6qDmVHSjnkaWFSu3y_Sis0kzHL/view?usp=sharing .
+Μετά απο διάφορες προσπάθειες και αποτυχίες δημιουργήσαμε ένα λειτουργικό πρωτότυπο, video-link:  https://drive.google.com/file/d/1IFSs3d6qDmVHSjnkaWFSu3y_Sis0kzHL/view?usp=sharing .
 
 Εδώ είναι ένα βίντεο του Bill Gates που μιλάει για την αποθήκευση ενέργειας μέσω της βαρύτητας: https://www.youtube.com/watch?v=RH5Lgv-4te8
 
