@@ -70,4 +70,7 @@ ii)2x Filament ABS : https://grobotronics.com/creality-hyper-abs-1-75mm-1kg-whit
 Κόστος 100 ευρώ  
 Υ.Γ. ΜΑΣ ΚΟΣΤΙΣΕ ΑΡΚΕΤΑ ΠΑΡΑΠΑΝΩ ΛΟΓΩ ΤΩΝ ΠΟΛΛΑΠΛΩΝ ΠΡΟΣΠΑΘΕΙΩΝ ΓΙΑ ΛΕΙΤΟΥΡΓΙΚΟ ΠΡΩΤΟΤΥΠΟ. Το παραπάνω ποσό είναι αυτό που θα δαπανήσει αυτός που θα χρησιμοποιήσει την εμπειρία μας και τα open source σχέδια μας . 
 
+ΠΗΓΕΣ
+ 1) https://www.thingiverse.com/thing:952564#google_vignette ( ΕΝΩ ΓΙΑ ΜΑΣ ΗΤΑΝ ΚΑΛΟ ΣΗΜΕΙΟ ΕΚΙΝΗΣΗΣ ,ΕΧΕΙ ΑΡΚΕΤΑ ΣΧΕΔΙΑΣΤΙΚΑ ΛΑΘΗ ΠΟΥ ΧΡΗΖΟΥΝ ΔΙΟΡΘΩΣΗΣ)
+ 2) wikipedia:  https://en.wikipedia.org/wiki/Gravity_battery 
 
