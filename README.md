@@ -47,7 +47,6 @@
 Βίντεο: 
 Μετά απο πολλές προσπάθειες  δημιουργήσαμε ένα λειτουργικό πρωτότυπο, video-link:  https://drive.google.com/file/d/1IFSs3d6qDmVHSjnkaWFSu3y_Sis0kzHL/view?usp=sharing .
 
-Εδώ είναι ένα βίντεο του Bill Gates που μιλάει για την αποθήκευση ενέργειας μέσω της βαρύτητας: https://www.youtube.com/watch?v=RH5Lgv-4te8
 
 
 Οδηγίες
