@@ -63,7 +63,9 @@
 Σύνδεσμος Αγοράς
 
 
-6x Filament 
+i)4x Filament PLA : https://grobotronics.com/esun-pla-filament-1-75mm-1kg-blue.html     = 80 €
+
+ii)2x Filament ABS : https://grobotronics.com/creality-hyper-abs-1-75mm-1kg-white.html   =40 €
 
 Κόστος 120 ευρώ  
 
