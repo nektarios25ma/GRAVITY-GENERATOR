@@ -53,7 +53,7 @@
 
 Έχουμε συμπεριλάβει πλήρη μοντέλα της ανεμογεννήτριας και του ανεμιστήρα,  για ευκολότερη εκτύπωση.  Μπορείτε να μειώσετε τον αριθμό των πτερυγίων του ανεμιστήρα, να τα αντιστρέψετε ή να συνδέσετε έναν κινητήρα/οτιδήποτε άλλο θέλετε.
 Τα stl (3d design) files θα τα βρείτε εδώ ως stl.zip ή : https://github.com/nektarios25ma/GRAVITY-GENERATOR/blob/main/stl.zip
-και τις οδηγίες συναρμολόγησης εδώ ως gravity assemble ή : https://github.com/nektarios25ma/GRAVITY-GENERATOR/blob/main/gravityassemble.zip
+και τις οδηγίες συναρμολόγησης εδώ ως gravity assemble : https://github.com/nektarios25ma/GRAVITY-GENERATOR/blob/main/gravityASSEMBLE.mp4      ή : https://github.com/nektarios25ma/GRAVITY-GENERATOR/blob/main/gravityassemble.zip
 
 Συνιστούμε την εκτύπωση σε ABS με ύψος στρώσης 0,2 και πλήρωση 30%.
 
