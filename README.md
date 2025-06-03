@@ -73,6 +73,7 @@ i)3x Filament PLA : https://grobotronics.com/esun-pla-filament-1-75mm-1kg-blue.h
 ii)2x Filament ABS : https://grobotronics.com/creality-hyper-abs-1-75mm-1kg-white.html   =40 €
 
 iii) 10 x ρουλεμάν 608Z : https://grobotronics.com/s608zz-8mm-bore-22mm-od-stainless-steel.html  = 26 € 
+
 Κόστος 126 ευρώ  
 Υ.Γ. ΜΑΣ ΚΟΣΤΙΣΕ ΑΡΚΕΤΑ ΠΑΡΑΠΑΝΩ ΛΟΓΩ ΤΩΝ ΠΟΛΛΑΠΛΩΝ ΠΡΟΣΠΑΘΕΙΩΝ ΓΙΑ ΛΕΙΤΟΥΡΓΙΚΟ ΠΡΩΤΟΤΥΠΟ. Το παραπάνω ποσό είναι αυτό που θα δαπανήσει αυτός που θα χρησιμοποιήσει την εμπειρία μας και τα open source σχέδια μας . 
 
